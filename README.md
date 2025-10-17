@@ -16,6 +16,8 @@
 🔗 **Social Media Integration** — Direct links to EDS handles
 
 ```
+## 🗂️ Project Structure
+
 ECHELON-LANDING-PAGE/
 ├── index.html
 ├── assets/
