@@ -17,21 +17,17 @@
 
 ---
 
-(```)
-## 🗂️ Project Structure
-
 ECHELON-LANDING-PAGE/
 ├── index.html
 ├── assets/
-│ ├── EDS Logo.webp
-│ ├── Hack Wave 2.0.jpg
-│ ├── Bootcamp.jpeg
-│ ├── dev hacks.jpeg
-│ ├── jigyarth.jpeg
-│ ├── atharva.jpeg
-│ └── tanishka.jpeg
+│   ├── EDS Logo.webp
+│   ├── Hack Wave 2.0.jpg
+│   ├── Bootcamp.jpeg
+│   ├── dev hacks.jpeg
+│   ├── jigyarth.jpeg
+│   ├── atharva.jpeg
+│   └── tanishka.jpeg
 └── README.md
-(```)
 ---
 
 ## 🛠️ Technologies Used
