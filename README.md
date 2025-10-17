@@ -17,6 +17,7 @@
 
 ---
 
+(```)
 ## 🗂️ Project Structure
 
 ECHELON-LANDING-PAGE/
@@ -30,7 +31,7 @@ ECHELON-LANDING-PAGE/
 │ ├── atharva.jpeg
 │ └── tanishka.jpeg
 └── README.md
-
+(```)
 ---
 
 ## 🛠️ Technologies Used
@@ -86,7 +87,7 @@ git clone https://github.com/suyash-verma-AI/Echelon-Dev-Society-Landing-Page.gi
 4. Deploy to your favorite hosting platform (Netlify, Vercel, GitHub Pages, etc.)
 
 🌐 Live Demo
-[View Live project](https://your-deployment-link.vercel.app)
+[View Live project](https://echelon-dev-society.netlify.app/)
 
 ## 📞 Contact
 
