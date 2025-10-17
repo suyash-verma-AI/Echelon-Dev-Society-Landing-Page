@@ -15,8 +15,7 @@
 💬 **Functional Contact Form** — With validation & modal confirmation  
 🔗 **Social Media Integration** — Direct links to EDS handles
 
----
-
+```
 ECHELON-LANDING-PAGE/
 ├── index.html
 ├── assets/
@@ -28,7 +27,7 @@ ECHELON-LANDING-PAGE/
 │   ├── atharva.jpeg
 │   └── tanishka.jpeg
 └── README.md
----
+```
 
 ## 🛠️ Technologies Used
 
