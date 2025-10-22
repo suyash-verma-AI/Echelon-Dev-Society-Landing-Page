@@ -88,7 +88,7 @@ git clone https://github.com/suyash-verma-AI/Echelon-Dev-Society-Landing-Page.gi
 
 ## 📞 Contact
 
-- **Email**: eds@edgi.edu.in
+- **Email**: echelondevsociety@gmail.com.
 - **WhatsApp**: [Join Community](https://chat.whatsapp.com/D2Qx7lofeFnLre9gsAU4mW)
 - **Instagram**: [@echelondevsociety](https://www.instagram.com/echelondevsociety)
 - **LinkedIn**: [Echelon Dev Society](https://www.linkedin.com/company/echelondevsociety)
